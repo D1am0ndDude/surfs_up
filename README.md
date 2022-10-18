@@ -5,9 +5,11 @@ In order to be positive about opening an ice cream/surf board shop in Oahu, we f
 
 # Results
 The Dataframe below summarize June's temperature statistics over the last Seven Years.
+
 ![June Temps](https://user-images.githubusercontent.com/46943357/196545069-4ec4b788-5a10-47c0-bf0c-d4abf55b307c.PNG)
 
 The Dataframe below summarize Decembers temperature statistics over the last Six Years.
+
 ![Dec_Temps](https://user-images.githubusercontent.com/46943357/196545187-106bac44-be4c-4ca0-836f-da36035e083c.PNG)
 
 Here is what we found from these two tables, after analysing both months. 
